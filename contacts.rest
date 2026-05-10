@@ -1,0 +1,12 @@
+### Hello World
+GET http://localhost:8080/
+
+###
+
+### Get all contacts
+GET http://localhost:8080/contacts
+
+###
+
+### Get contact by ID (replace with a real _id from your database)
+GET http://localhost:8080/contacts/REPLACE_WITH_CONTACT_ID
